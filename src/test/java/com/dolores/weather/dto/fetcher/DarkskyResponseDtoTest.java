@@ -1,5 +1,6 @@
-package com.dolores.weather.fetcher.dto;
+package com.dolores.weather.dto.fetcher;
 
+import com.dolores.weather.fetcher.dto.DarkskyResponseDto;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.Test;
 
@@ -15,7 +16,7 @@ public class DarkskyResponseDtoTest {
 
         // Given
         final URL urlToSuccessfulJsonResponse =
-            getClass().getResource("/com/dolores/weather/fetcher/dto/successful-response.json");
+            getClass().getResource("/com/dolores/weather/dto/fetcher/successful-response.json");
 
         // When
         final DarkskyResponseDto darkskyResponseDto =
