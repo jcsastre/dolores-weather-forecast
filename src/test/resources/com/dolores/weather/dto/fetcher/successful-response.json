@@ -1,0 +1,45 @@
+{
+  "latitude": 37.8267,
+  "longitude": -122.4233,
+  "timezone": "America/Los_Angeles",
+  "hourly": {
+    "data": [
+      {
+        "time": 1511884800,
+        "precipIntensity": 0.0002,
+        "precipProbability": 0.03,
+        "precipType": "rain",
+        "temperature": 46.04,
+        "apparentTemperature": 46.04,
+        "dewPoint": 42.33,
+        "humidity": 0.87,
+        "pressure": 1021.14,
+        "windSpeed": 1.41,
+        "windGust": 1.93,
+        "windBearing": 26,
+        "cloudCover": 0.22,
+        "uvIndex": 0,
+        "visibility": 9.99,
+        "ozone": 276.73
+      },
+      {
+        "time": 1511888400,
+        "precipIntensity": 0.0002,
+        "precipProbability": 0.02,
+        "precipType": "rain",
+        "temperature": 50.26,
+        "apparentTemperature": 50.26,
+        "dewPoint": 44.18,
+        "humidity": 0.8,
+        "pressure": 1021.56,
+        "windSpeed": 2.54,
+        "windGust": 3.14,
+        "windBearing": 308,
+        "cloudCover": 0.4,
+        "uvIndex": 1,
+        "visibility": 10,
+        "ozone": 277.32
+      }
+    ]
+  }
+}
